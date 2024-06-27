@@ -44,13 +44,7 @@ python3 app.py
 
 
 
-
-
-## Presentation
-
-The included [presentation](https://docs.google.com/presentation/d/1L4vQjprS5gTK5wKBfh6PIdkHpLyO9mQv8Hg3CPRgbp8/edit?usp=sharing) contains most of the details of the project: the aim, motivation and the technologies used. Please have a look at it for brief view.
-
 ## Made by:
-- 19CS10065 Vinit Raj
-- 19CS10067 Yashica Patodia
-- 19CS30043 Shrinivas Khiste
+- Sonune Pratik Ganesh
+- Deepraj Das
+- Chetna 
